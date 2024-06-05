@@ -54,7 +54,5 @@ body {
   color: #0e46a3;
   width: 18vmin;
   font-size: 12vmin;
-}
-.box:hover{
-curdor:pointer;
+  cursor:pointer;
 }
