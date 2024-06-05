@@ -55,3 +55,6 @@ body {
   width: 18vmin;
   font-size: 12vmin;
 }
+.box:hover{
+curdor:pointer;
+}
